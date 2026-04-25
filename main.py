@@ -66,7 +66,8 @@ def main():
         total_cost = calc_total_after_aid(tuition_cost, aid_amount)
         cost_difference = calc_cost_difference(money_saved, total_cost)
 
-        #storing the data insdie of a dictionary
+        #storing the data inside of a dictionary
+        '''I am going to be using a dictionary so that way the student's input will be easier to read. This will also make the data with keys and values easier to work with and format for the final output.'''
         data_summary = {
             "Student Name": student_name,
             "Credits Remaining": credits_remaining,
