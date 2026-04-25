@@ -1,0 +1,9 @@
+---College Tuition Report ---
+Student Name: Mark
+Credits Remaining: 100
+Cost Per Credit: $50.00
+Tuition Subtotal: $5000.00
+Aid Applied: $1000.00
+Total Out-of-Pocket: $4000.00
+Remaining Savings: $-3000.00
+--------------------------
